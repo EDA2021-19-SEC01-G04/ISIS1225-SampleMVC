@@ -30,5 +30,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 -Integrantes
 
-1. Andres Felipe Castro
-2. Eliana Palacio Pinzón
+1. Andres Felipe Castro - andrescastrol@uniandes.edu.co - 201920805
+2. Eliana Palacio Pinzón - e.apalcio@uniandes.edu.co - 202112428
